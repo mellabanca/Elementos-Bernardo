@@ -1,0 +1,41 @@
+Jogo de corrida multiplayer
+Elementos de Design do jogo:
+
+- Personagens:
+PC (Playing Character) - carrinhos
+NPC (Non-Playing Character) - obstáculo, moeda, combustível
+
+- Objetivo:
+Chegar na linha final em primeiro lugar e com mais pontos
+
+- Regras:
+Se eu apertar a tecla para cima/direita/esquerda, eu movimento o carro
+Se bater no obstáculo, perde vida
+Se encostar no ícone de tanque de combustível, eu completo meu combustível
+O jogo começa quando 2 jogadores entram
+O jogo termina quando os jogadores cruzam a linha de chegada OU
+Quando acaba o combustível OU a vida
+A pontuação aumenta quando pegamos moedas
+O combustível do carro diminui quando ele está em movimento
+
+- Equilíbrio:
+Mais fácil: tanques de combustível, vida não diminuir toda de uma vez
+Mais difícil: obstáculos, combustível, colisão entre os carros
+
+- Adaptabilidade:
+Não se aplica no nosso jogo
+
+- Elementos de acaso e elementos de habilidade:
+Acaso: moedas e tanques de combustível, outro jogador
+Habilidade: obstáculo
+
+- Feedback:
+Linha de chegada + rank
+Pontuação
+Frente do carro
+Barras de vida e combustível
+
+- História:
+Você tá devendo dinheiro para o agiota e tem que ganhar a corrida para
+pagar a dívida
+VELOZES E FURIOSOS
