@@ -1,0 +1,34 @@
+Jogo do Bernardo: Distant Worlds 2
+Jogo de estratégia em que controla os seres humanos e está expandindo
+e explorando ao longo do sistema solar
+
+- Personagens:
+PC: naves, bases, agentes especiais (generais, soldados, cientistas,
+engenheiros, diplomatas e outras espécies - dependendo das ações)
+NPC: etezinhos (bichos intergalácticos), impérios, naves, bases
+
+- História:
+O jogo começa mais ou menos no ano 2500 e envolve exploração e expansão
+da raça humana pelo espaço
+
+- Objetivos:
+Dividir e conquistar (diplomacia)
+
+- Regras:
+Qualquer tipo de ação vai interferir nas relações com os outros seres
+Usa o dinheiro para poder construir naves, bases, outras coisas (taxa
+que cobra por cada colônia) - imposto
+
+- Equilíbrio:
+Depende do que você escolhe fazer
+
+- Adaptatividade:
+Vai crescendo, manutenção dos gastos, tempo vai passando
+
+- Acaso/Habilidade:
+Piratas, outras civilizações, como trabalhar com elas
+
+- Feedback:
+Número de colônias, população, naves, instalações, ruínas
+Dinheiro
+Tempo
